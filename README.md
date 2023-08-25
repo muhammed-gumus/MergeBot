@@ -3,17 +3,13 @@
 ### What is the MergeBot
 MergeBot is an open source bot developed with Javascript, which is used to compile Pull Requests in a date range that you specify in Pull Requests in a GitHub repository you specify in a markdown(md) file.
 
-- Pull the repository to your local.
+- Pull the repository to your local
 `
 git clone https://github.com/muhammed-gumus/MergeBot.git
 `
-- Install setups and dependencies.
+- Install setups and dependencies
 `
 npm install -y
-`
-- Switch to MergeBot folder.
-`
-cd MergeBot
 `
 - Run the MergeBot
 `
