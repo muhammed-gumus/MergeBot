@@ -2,12 +2,12 @@ const axios = require('axios');
 const fs = require('fs');
 const moment = require('moment');
 
-const repoOwner = 'kamp-us';
-const repoName = 'monorepo';
-const outputFilePath = '2023.08.12-2023.08.26.md';
+const repoOwner = 'kamp-us'; //The owner of the repository you want to access
+const repoName = 'monorepo'; //The name of the repository you want to access
+const outputFilePath = 'file_name.md'; //Edit the filename to be created as in the example
 
-const startDate = '2023-08-12T00:00:00Z';
-const endDate = '2023-08-26T23:59:59Z';
+const startDate = '2023-08-12T00:00:00Z'; //Set the start date in the date range you want to access
+const endDate = '2023-08-26T23:59:59Z'; //Set the first date in the date range you want to access
 
 const apiUrl = `https://api.github.com/repos/${repoOwner}/${repoName}/pulls?state=closed&sort=created&direction=desc`;
 
