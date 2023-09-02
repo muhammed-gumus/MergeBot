@@ -18,12 +18,12 @@ node bot.js
 ## How does it work
 > :warning:  Make sure you follow the installation instructions first!
 
-##### Run `node bot.js` in your terminal
-<img width="471" alt="Ekran Resmi 2023-08-26 01 53 58" src="https://github.com/muhammed-gumus/MergeBot/assets/86381278/c33bccdd-4793-4ee5-aac9-2b4250b3a4af">
+#### Step 1: Run `node bot.js` in your terminal
+<img width="1189" alt="Ekran Resmi 2023-09-02 15 14 12" src="https://github.com/muhammed-gumus/MergeBot/assets/86381278/30a9039e-42f8-45bc-98ea-66a7bc072b17">
 
-##### Our Markdown(md) file is ready to use.
+#### Step 2: Our Markdown(md) file is ready to use.
 <img width="1419" alt="Ekran Resmi 2023-08-26 02 01 04" src="https://github.com/muhammed-gumus/MergeBot/assets/86381278/a6850e23-9d5f-40ea-891a-27afb1850bda">
 
-##### This is how the file we created appears on GitHub.
+#### Step 3: This is how the file we created appears on GitHub.
 
 <img width="1470" alt="Ekran Resmi 2023-08-26 02 05 22" src="https://github.com/muhammed-gumus/MergeBot/assets/86381278/e94eb739-a533-4281-930d-950f9aa43bb3">
